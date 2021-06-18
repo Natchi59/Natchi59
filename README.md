@@ -7,4 +7,4 @@ Salut je m'appelle Nathan
   - Python
   - Javascript (NodeJS)
   - Html/CSS
-  
+  - Vue.js
