@@ -9,8 +9,12 @@ __Informations me concernant__
 
 __Informations concernant mes capacités de développement__
 * Voici les langages que je connais:
-  * - [x] Python
-  * Javascript
-  * Typescript
-  * HTML/CSS
-  * Java
+  * ✅ Python
+  * ✅ Javascript
+  * ✅ Typescript
+  * ✅ HTML/CSS
+  * ⌛ Java
+ 
+* Api/Framework:
+  * ✅ NodeJS
+  * ✅ Vuejs
