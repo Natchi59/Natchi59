@@ -1,24 +1,33 @@
-# Profil de Natchi59
+<h2> Hey there! My name is Natchi.</h2>
 
-## Liens
-- [NPM](https://www.npmjs.com/~natchi)
-- [Github](https://github.com/Natchi59)
-  - [Me concernant](https://github.com/Natchi59/Natchi59#informations-me-concernant)
-  - [Mes capacités de développement](https://github.com/Natchi59/Natchi59#informations-concernant-mes-capacit%C3%A9s-de-d%C3%A9veloppement)
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-## Informations me concernant
-* Je m'appelle Nathan, j'ai 18ans, et je suis étudiant informatique en BTS.
-* J'habitude à Lille dans le Nord de la France.
-* Je développe depuis 16ans.
+- 🤔 &nbsp; I like to discover new languages and new universes.
+- 🎓 &nbsp; I study in BTS SIO, option SLAM, in Lille in France.
+- 🌱 &nbsp; I really like the development on the backend side.
+- ✍️ &nbsp; My favorite editor is Visual Studio Code.
 
-## Informations concernant mes capacités de développement
-* Voici les langages que je connais:
-  * ✅ Python
-  * ✅ Javascript
-  * ✅ Typescript
-  * ✅ HTML/CSS
-  * ⌛ Java
- 
-* Api/Framework:
-  * ✅ NodeJS
-  * ✅ Vuejs
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+- 💻 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+- 🗃️ &nbsp;
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+<br/>
+
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Natchi59&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natchi59&theme=buefy&layout=compact" />
+</a>
